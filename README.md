@@ -14,7 +14,7 @@ Junte-se a nós nesta jornada gastronômica e descubra o que o Cook App pode faz
 
 ## Demo
 
-Para visualizar o design do aplicativo, você pode acessar o [link do Figma](https://www.figma.com/...).
+Para visualizar o design do aplicativo, você pode acessar o [link do Figma](https://www.figma.com/file/5NHUATEIyoQQlMUZkDjxer/Cook-App-(Community)?type=design&node-id=0-1&mode=design&t=binrvIh9AGMmPxpQ-0).
 
 ## Tecnologias Utilizadas
 
